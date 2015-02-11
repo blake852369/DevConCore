@@ -1,0 +1,9 @@
+name: DevConCore Plugin
+main: me.blake852369.DevConCore
+version: 1.0
+commands:
+    kit:
+        description: get items from this plugin
+        usage: /<command>
+       
+      
